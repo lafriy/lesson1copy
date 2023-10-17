@@ -1,0 +1,50 @@
+nav{
+    background: #00fcac;
+    width: 290px;
+    position: fixed ;
+    top: 45px;
+    left: 10px;
+    padding: 10 px;
+    box-sizing: border-box;
+    opacity: .05;
+    transition: all .5 ease;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    height: 90vh;
+}
+/* для навигац области/ настройки коробки */
+
+nav:hover{
+opacity: 1;
+transition: all .1s ease;
+}
+/* nav hoover=при наведении */
+
+nav p{
+    margin: 0;
+    font-weight: bold;
+    font-size: 12px!important;
+    word-wrap: break-word;
+    padding-left: 20px;
+}
+/* для всего текста !important=применить ко всему */
+nav a{
+    text-decoration: none;
+    font-size: 10px;
+    padding-bottom: 5px;
+    word-wrap: break-word;
+    padding-left: 20px;
+}
+/* для ссылок */
+/* +все это относится к нав коробке в меню баре */
+
+nav ul{
+    list-style-type: none;
+    width: 100%;
+}
+nav li{
+    margin: 0px;
+    line-height: 10px;
+   text-decoration: none;
+   padding-top: 10px;
+}

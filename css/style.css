@@ -1,0 +1,11 @@
+@import "reset.css"; /* всегда первый */
+@import "main.css";
+
+@import "menubar.css";
+@import "nav.css";
+@import "index.css";
+
+@import "novayastatya.css";
+@import "about.css";
+/* ;-предложение окончено */
+/* style обьединяет другие файлы, все файлы нужно подключать */

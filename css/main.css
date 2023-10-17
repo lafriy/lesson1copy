@@ -1,0 +1,97 @@
+.time{
+    color: rgb(195, 28, 28);
+}
+.food{
+    color: rgb(139, 187, 6);
+}
+.yay{
+    color: rgb(81, 10, 146);
+}
+.hay{
+    color: rgb(4, 218, 111);
+}
+.hay{
+    font-size: 70px;
+}
+.j{
+    font-size: 50px;
+}
+.j{
+    color: lightcoral;
+}
+.lol{
+    color: rgb(51, 255, 0);
+}
+.lol{
+    font-size: 70px;
+}
+
+
+
+h1{
+font-family: 'Martian Mono', monospace;
+color: aquamarine;
+}
+
+
+body{
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: "PT sans", sans-serif;
+}
+
+a{ color:
+    cyan;
+}
+
+h1, h2, h3, p, ul, blockquote{
+    width: 700px;
+    margin: 0 auto;
+}
+
+h1, h2, h3{
+    font-family: "PT Sans Caption", sans-serif;
+    font-weight: bold;
+}
+
+h1{
+    margin-top: 66px;
+    font-size: 38px;
+    line-height: 45px;
+}
+
+
+h1+p{
+    margin-top: 8px;
+    font-family: "PT Sans Caption", sans-serif;
+    font-size: 22px;
+    line-height: 32px;
+    color: rgb(0, 0, 0, .4);
+}
+
+h1+p+p{
+ margin-top: 6px;   
+ font-family: "PT Sans Caption", sans-serif;
+ color: rgb(0, 30, 0, .4);
+}
+
+h2{
+    margin-top: 43px;
+    font-size: 32px;
+    line-height: 36px;
+    color: rgb(0, 0, 0, .8)
+}
+
+blockquote{
+    font-style: italic;
+    font-size: 150px;
+}
+
+img{
+    display: block;
+    width: 900px;
+    margin: 80px auto 0;
+}
+a:hover{
+color: rgb(255, 0, 217);
+}
